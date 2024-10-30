@@ -8,7 +8,7 @@
 
 ## 🌱 I’m currently learning ...
 - Java y Kotlin para desarrollo móvil.
-- Bases de datos SQL y NoSQL.
+- Bases de datos SQL.
 - Patrones de diseño y buenas prácticas de programación.
 
 ## 💞️ I’m looking to collaborate on ...
