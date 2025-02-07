@@ -23,6 +23,6 @@
 
 ## 😄 Pronouns: ...
 - He/Him (Él)
-
+![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
 ## ⚡ Fun fact: ...
 - Me encanta aprender nuevas tecnologías y siempre estoy buscando nuevos retos. Cuando no estoy programando, disfruto jugar videojuegos y ver series o peliculas. 
