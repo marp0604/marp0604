@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Miguel Ángel 👋</h1>
+<h1 align="center">Hola, soy Miguel Ángel</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
@@ -68,11 +68,14 @@
   <a href="https://x.com/marp0604_dev" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter" alt="Twitter"/>
   </a>
-  <a href="mailto:tuemail@ejemplo.com" target="_blank">
+  <a href="mailto:marp0604.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
 ---
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0abde3&height=100&section=footer"/>
+</p>
 
 <p align="center">💬 ¡Gracias por visitar mi perfil! ¡Estoy abierto a colaborar y aprender! 😄</p>
