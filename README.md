@@ -1,81 +1,31 @@
-<h1 align="center">Hola, soy Miguel Ángel</h1>
+# Miguel Ángel Ramírez Pérez
 
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-</p>
-
-<p align="center">
-  🎓 Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM)<br>
-  💻 Apasionado por el desarrollo Android, Java, Kotlin y bases de datos<br>
-  🚀 Siempre con ganas de aprender y mejorar como desarrollador
-</p>
+**Frontend Developer · Astro · React · TypeScript**  
+Almería, España · [marp0604.com](https://marp0604.com) · [LinkedIn](https://linkedin.com/in/marp0604)
 
 ---
 
-## 📌 Sobre mí
+Desarrollo productos digitales con base sólida en programación y especialización en frontend moderno. Trabajo en entorno de producto real en [Farmacias.com](https://farmacias.com), y en paralelo construyo **Vexelplaypro**, mi plataforma propia que crece hacia móvil con Kotlin Multiplatform.
 
-<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250"/>
-
-👋 ¡Hola! Soy Miguel Ángel, estudiante de último año del ciclo de Desarrollo de Aplicaciones Multiplataforma (DAM).
-
-🔍 Me interesa especialmente:
-- El desarrollo de **apps móviles Android** (con Kotlin y Java)
-- Bases de datos como **MySQL** y **SQLite**
-- Las buenas prácticas, el rendimiento y el código limpio
-
-🧠 Actualmente estoy aprendiendo:
-- **Patrón MVVM**, **API REST**, **RecyclerView**, **SharedPreferences**
-- SQL avanzado y optimización de consultas
-- Uso profesional de **Git** y GitHub
+No uso librerías de componentes genéricas. Prefiero entender lo que construyo.
 
 ---
 
-## 🛠 Tecnologías que uso
+## Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,mysql,sqlite,git,github" />
-</p>
-
----
-
-## 📱 Proyectos destacados
-
-> ⚙️ Actualmente estoy trabajando en varios proyectos. Aquí algunos destacados:
-
-- **Rick & Morty App**  
-  App Android que consume una API REST para mostrar episodios y personajes de la serie. Usa patrón MVVM, navegación entre pantallas, RecyclerView y más. *(Próximamente disponible en mi GitHub con README)*
+**Frontend** — HTML · CSS · JavaScript · TypeScript · React · Astro  
+**Herramientas** — Git · GitHub · Vite · Node.js · npm  
+**Explorando** — Kotlin Multiplatform · Tailwind CSS · Figma
 
 ---
 
-## 📊 GitHub Stats
+## Proyectos
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marp0604&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marp0604&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
+**[marp0604-portfolio](https://github.com/marp0604/marp0604-portfolio)** — Este portfolio. Construido con Astro, animaciones CSS propias y canvas. Sin librerías de componentes. Código abierto.  
+**Vexelplaypro** *(en desarrollo)* — Plataforma propia que empezó en web y va creciendo hacia móvil con KMP.
 
 ---
 
-## 📫 Contacto
+## Contacto
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/miguel-angel-ramirez-perez-a7150a334/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="https://x.com/marp0604_dev" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter" alt="Twitter"/>
-  </a>
-  <a href="mailto:marp0604.dev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
----
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0abde3&height=100&section=footer"/>
-</p>
-
-<p align="center">💬 ¡Gracias por visitar mi perfil! ¡Estoy abierto a colaborar y aprender! 😄</p>
+[contacto@marp0604.com](mailto:contacto@marp0604.com)
