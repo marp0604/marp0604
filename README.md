@@ -50,9 +50,9 @@ Plataforma propia para gestión de pistas de pádel en comunidades residenciales
 
 `Next.js` `React` `TypeScript` `Supabase`
 
-**Spider-Man: Brand New Day** — web promocional
+**[Spider-Man: Brand New Day](https://spidermanbrandnewday.es)** — sitio promocional
 
-Colaboración contratada (vía InfoJobs) con [Midudev](https://twitch.tv/midudev) para la web oficial de la película.
+Colaboración contratada (vía InfoJobs) con [Midudev](https://twitch.tv/midudev) para el sitio web oficial de la película.
 
 `spidermanbrandnewday.es`
 
@@ -80,5 +80,7 @@ Mi portfolio. Construido con Astro, animaciones CSS propias y canvas. Sin librer
 ## Contacto
 
 <div align="center">
+
 📧 [contacto@marp0604.com](mailto:contacto@marp0604.com) · 🌐 [marp0604.com](https://marp0604.com)
+
 </div>
