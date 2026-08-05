@@ -72,8 +72,10 @@ Mi portfolio. Construido con Astro, animaciones CSS propias y canvas. Sin librer
 ## GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=marp0604&show_icons=true&theme=dark&hide_border=true&bg_color=080808&title_color=ffffff&icon_color=ffffff&text_color=c9c9c9" alt="GitHub Stats" height="165">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marp0604&layout=compact&theme=dark&hide_border=true&bg_color=080808&title_color=ffffff&text_color=c9c9c9" alt="Top Languages" height="165">
+
+<img src="https://github-stats-extended.vercel.app/api?username=marp0604&show_icons=true&theme=dark&hide_border=true&bg_color=080808&title_color=c8f060&icon_color=c8f060&text_color=c9c9c9" alt="GitHub Stats" height="165">
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=marp0604&layout=compact&theme=dark&hide_border=true&bg_color=080808&title_color=c8f060&text_color=c9c9c9" alt="Top Languages" height="165">
+
 </div>
 <br>
 
